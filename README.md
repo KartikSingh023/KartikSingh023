@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/kartiksinghweb3" target="blank"><img src="https://img.shields.io/twitter/follow/kartiksinghweb3?logo=twitter&style=for-the-badge" alt="kartiksinghweb3" /></a> </p>
 
-- 🌱 I’m currently learning **Rust and Go Lang**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://kartik-singh-portfolio.netlify.app/](https://kartik-singh-portfolio.netlify.app/)
 
-- 💬 Ask me about **Reactjs Nodejs**
+- 💬 Ask me about **Web development and  Machine Learning **
+
+- 👯 I’m looking to collaborate on **Building large scale web apps**
 
 - 📫 How to reach me **singhkartik2323@gmail.com**
-
-- 📄 Know about my experiences [https://kartik-singh-portfolio.netlify.app/](https://kartik-singh-portfolio.netlify.app/)
 
 - ⚡ Fun fact **I think I am funny**
 
